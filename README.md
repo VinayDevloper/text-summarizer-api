@@ -33,3 +33,11 @@ http://127.0.0.1:8000/docs
   "status": "success",
   "summary": "Learning FastAPI step by step"
 }
+
+## 📸 Screenshots
+
+### Swagger UI
+![Swagger UI](swagger-ui.jpeg)
+
+### API Response
+![API Response](api response.jpeg)
